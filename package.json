@@ -1,4 +1,5 @@
 {
+  "homepage": "http://samirquluzade.github.io/Quiz-App",
   "name": "react-complete-guide",
   "version": "0.1.0",
   "private": true,
@@ -38,7 +39,9 @@
   },
   "description": "Quiz App",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
   "author": "Samir Quluzadeh",
   "license": "ISC"
 }
